@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SoundCloud/SoundCloud.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.3300b85e4411b291" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SoundCloud/Resources/viewModel/ExploreFragment.cs" Line="1" Column="1" />
+      <File FileName="SoundCloud/Resources/viewModel/AudioPlayer.cs" Line="1" Column="1" />
+      <File FileName="SoundCloud/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SoundCloud/Resources/menu/Action_menu.xml" Line="1" Column="1" />
+      <File FileName="SoundCloud/Resources/menu/navmenu.xml" Line="1" Column="1" />
+      <File FileName="SoundCloud/Resources/viewModel/TracksByGenres.cs" Line="1" Column="1" />
+      <File FileName="SoundCloud/Resources/viewModel/AudioFragment.cs" Line="156" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SoundCloud AndroidDesignerPreferredDevice="Nexus 4" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

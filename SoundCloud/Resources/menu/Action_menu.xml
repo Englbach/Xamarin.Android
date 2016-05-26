@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ 
+  <item
+      android:id="@+id/menu_search"
+      android:icon="@drawable/ic_search_white_24dp"
+      android:showAsAction="always"
+      android:title="Search"
+    
+      />
+ 
+  <item
+      android:id="@+id/menu_settings"
+      android:showAsAction="never"
+      android:orderInCategory="100"
+      />
+   
+     <group android:checkableBehavior="single">
+      
+      <item android:id="@+id/selecta"
+      		android:title="Top 50"
+      		android:actionViewClass="android.widget.RadioButton"
+      		android:showAsAction="never"/>
+
+       <item android:id="@+id/selectb"
+      		android:title="New &amp; hot"
+      		android:actionViewClass="android.widget.RadioButton"
+      		android:showAsAction=""/>
+      </group>
+     
+</menu>
